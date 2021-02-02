@@ -10,3 +10,6 @@ My name is Adrian. I'm currently a student at the moment trying to transfer to t
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ManOS's name is based on my tournament tag when I compete in competitive Super Smash Bros. Melee. 
 
+
+I also create visual novels occassionally, so don't be afraid to check them out! 
+https://agonzalez9784.itch.io
