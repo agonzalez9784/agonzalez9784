@@ -8,5 +8,5 @@ My name is Adrian. Most of my projects may consist of operating systems I made f
 - 💬 Ask me about ManOS or the Man Programming Language.
 - 📫 How to reach me: agonzalez9784@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Man is based on my tournament tag when I compete in competitive Super Smash Bros. Melee. 
 
