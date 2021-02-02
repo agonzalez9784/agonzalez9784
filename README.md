@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hey there!
 
-<!--
-**agonzalez9784/agonzalez9784** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Adrian. Most of my projects may consist of operating systems I made from scratch, applications for my operating system, hopefully emulators, etc. If you want to ask me question about ManOS or any other operating systems I end up making, don't be afraid to contact me at agonzalez9784@gmail.com. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... a project.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on the ManOS project.
+- 🌱 I’m currently learning Assembly and Kernel Development
+- 💬 Ask me about ManOS or the Man Programming Language.
+- 📫 How to reach me: agonzalez9784@gmail.com
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
--->
+
