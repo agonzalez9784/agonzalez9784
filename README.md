@@ -1,6 +1,6 @@
 ### Hey there!
 
-My name is Adrian. Most of my projects may consist of operating systems I made from scratch, applications for my operating system, hopefully emulators, etc. If you want to ask me question about ManOS or any other operating systems I end up making, don't be afraid to contact me at agonzalez9784@gmail.com. 
+My name is Adrian. I'm currently a student at the moment trying to transfer to the University of Texas. Most of my projects may consist of operating systems I made from scratch, applications for my operating system, hopefully emulators, etc. If you want to ask me question about ManOS or any other operating systems I end up making, don't be afraid to contact me at agonzalez9784@gmail.com. 
 
 
 - 🔭 I’m currently working on the ManOS project.
