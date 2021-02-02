@@ -8,5 +8,5 @@ My name is Adrian. I'm currently a student at the moment trying to transfer to t
 - 💬 Ask me about ManOS or the Man Programming Language.
 - 📫 How to reach me: agonzalez9784@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Man is based on my tournament tag when I compete in competitive Super Smash Bros. Melee. 
+- ⚡ Fun fact: ManOS's name is based on my tournament tag when I compete in competitive Super Smash Bros. Melee. 
 
