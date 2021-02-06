@@ -1,6 +1,6 @@
 ### Hey there!
 
-My name is Adrian. I'm currently a student at the moment trying to transfer to the University of Texas. Most of my projects may consist of operating systems I made from scratch, applications for my operating system, hopefully emulators, etc. If you want to ask me question about ManOS or any other operating systems I end up making, don't be afraid to contact me at agonzalez9784@gmail.com. 
+Hello, my name is Adrian! Most of my projects may consist of operating systems that I made from scratch, applications for my operating system, hopefully emulators, etc. If you want to ask me question about ManOS or any other operating systems I end up making, don't be afraid to contact me at agonzalez9784@gmail.com. 
 
 
 - 🔭 I’m currently working on the ManOS project.
@@ -8,8 +8,3 @@ My name is Adrian. I'm currently a student at the moment trying to transfer to t
 - 💬 Ask me about ManOS or the Man Programming Language.
 - 📫 How to reach me: agonzalez9784@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ManOS's name is based on my tournament tag when I compete in competitive Super Smash Bros. Melee. 
-
-
-I also create visual novels occassionally, so don't be afraid to check them out! 
-https://agonzalez9784.itch.io
