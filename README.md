@@ -1,2 +1,2 @@
 ### Hey
-I'm just a software developer. That's all. Nothing special, nothing more. 
+Welcome to my github. Not much here, ain't there?
