@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves to
 - **Frameworks & Libraries**: React, Node.js, Express, Flask, Next.js, Django, RoR
 - **Databases**: MySQL, MSSQL, MongoDB, PostgreSQL
 - **Tools**: Git, Docker, VSCode, AWS, Heroku, JIRA
-- **Design**: Figma
+- **Design**: Figma, AdobeXD
 
 ## 📈 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agonzalez9784&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=tokyonight)
